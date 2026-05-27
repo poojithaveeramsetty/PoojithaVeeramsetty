@@ -21,7 +21,7 @@ class PoojithaVeeramsetty:
     university     = "GITAM University"
     degree         = "BTech CSE"
     skills         = ["C", "Python", "Java"]
-    learning       = ["HTML", "CSS", "Web Development", "DSA"]
+    learning       = ["AIML", "Web Development", "DSA"]
     goal           = "Build impactful projects and grow as a Software Developer"
     mindset        = "Consistency > Motivation 🔥"
 ```
@@ -102,20 +102,6 @@ class PoojithaVeeramsetty:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poojithaveeramsetty/poojithaveeramsetty/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poojithaveeramsetty/poojithaveeramsetty/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/poojithaveeramsetty/poojithaveeramsetty/output/github-contribution-grid-snake-dark.svg" width="95%" />
-</picture>
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -135,5 +121,4 @@ class PoojithaVeeramsetty:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:0f2027,100:000000&height=120&section=footer"/>
 
 </div>
-
 
